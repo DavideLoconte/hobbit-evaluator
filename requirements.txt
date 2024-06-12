@@ -1,0 +1,7 @@
+owlready2
+ollama
+rdflib
+spacy
+wikipedia
+SPARQLWrapper
+tqdm
